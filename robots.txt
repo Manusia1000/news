@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manusia1000.github.io/news/sitemap.xml
